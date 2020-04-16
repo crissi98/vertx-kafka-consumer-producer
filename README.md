@@ -57,6 +57,6 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
 ### Disclaimer
-This is just a demo project. There are some errors left in this project. For example, when you close the prices.html`
+This is just a demo project. There are some errors left in this project. For example, when you close the `prices.html`
 you will not see the changing prices when opening it again. You have to restart the Quarkus-Application first before
 reopening.
