@@ -1,10 +1,10 @@
 # vertx-kafka-consumer-producer project
 This project illustrates how you can interact with Apache Kafka using vert.x
 
-##Tutorial used for vert.x Cleint
+## Tutorial used for vert.x Client
 https://vertx.io/docs/vertx-kafka-client/java/ 
 
-##Steps
+## Steps
 1. Download Kafka: https://kafka.apache.org/downloads
 2. Start zookeeper ./bin/zookeeper-server-start.sh config/zookeeper.properties
 3. Start kafka ./bin/kafka-server-start.sh config/server.properties
