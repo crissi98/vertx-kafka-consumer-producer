@@ -51,12 +51,12 @@ You can then execute your native executable with: `./target/vertx-kafka-consumer
 
 If you want to learn more about building native executables, please consult https://quarkus.io/guides/building-native-image.
 
-##About Quarkus
+## About Quarkus
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
-###Disclaimer
+### Disclaimer
 This is just a demo project. There are some errors left in this project. For example, when you close the prices.html`
 you will not see the changing prices when opening it again. You have to restart the Quarkus-Application first before
 reopening.
